@@ -1,4 +1,7 @@
+th {
+  background-color: rgb(204, 204, 204);
+}
 
-table{
-  border-collapse:collapse;
+td {
+  background-color: rgb(235, 235, 235);
 }
